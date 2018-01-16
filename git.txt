@@ -1,5 +1,5 @@
 git add --all (then press enter)
-git commit -m "Add styling to personal website" (then press enter)
+git commit -m "My own personal website" (then press enter)
 git push (then press enter)
 Enter your GitHub username (then press enter).
 Enter your GitHub password (then press enter). The characters won't show up on the screen, but rest assured, they are still being typed.
