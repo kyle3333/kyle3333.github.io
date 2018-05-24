@@ -36,6 +36,11 @@ function loadNews() {
 
   news.text("fetching news...");
 }
+function singForMe() {
+  var sing = new Audio("sing.aiff");
+  sing.play();
+}
 
+$("#sing").on("click", singForMe());
 loadWeather();
 loadNews();
